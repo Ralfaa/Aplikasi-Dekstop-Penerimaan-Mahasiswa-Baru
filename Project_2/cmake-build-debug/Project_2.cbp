@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_2">
+				<Option output="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Project_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_2/fast">
+				<Option output="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Project_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Clean.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Deklarasi.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Desain.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Laporan.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Lib.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/Menu.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/SebelumLogin.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsBayarFormulir.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsBayarUkt.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsNilai1.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsNilai2.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsNilai3.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsPendaftaran.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/TrsPerangkingan.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudCamaba.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudGelombang.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudJabatan.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudJalurPenerimaan.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudKaryawan.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudProgramStudi.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/crudTahunAjar.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/login.h">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/main.c">
+			<Option target="Project_2"/>
+		</Unit>
+		<Unit filename="C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\LENOVO\Downloads\Aplikasi_PMB_Ralfahisnaf_Kelompok2\Project_2 -B C:\Users\LENOVO\Downloads\Aplikasi_PMB_Ralfahisnaf_Kelompok2\Project_2\cmake-build-debug
+-- Configuring done (1.6s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/LENOVO/Downloads/Aplikasi_PMB_Ralfahisnaf_Kelompok2/Project_2/cmake-build-debug
